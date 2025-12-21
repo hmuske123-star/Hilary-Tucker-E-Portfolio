@@ -81,8 +81,8 @@ li {
     padding: 0 12px;
 }
 
-.text--purple {
-    color:#6030b1 
+.text--green {
+    color:seagreen
 }
 
 section:nth-child(even) {
@@ -117,7 +117,7 @@ nav {
 }
 
 .nav__link--anchor-primary {
-    background-color: #6030b1;
+    background-color: seagreen;
     padding: 8px 20px;
     border-radius: 50px;
     color: white;
@@ -125,12 +125,12 @@ nav {
 }
 
 .nav__link--anchor-primary:hover {
-    background-color: #5d3eff;
+    background-color: lightgreen;
 }
 
 .personal__logo {
     font-size: 24px;
-    color: #6030b1;
+    color: seagreen;
     margin: 0 12px;
     font-weight: bold;
 }
